@@ -1,2 +1,2 @@
-s = "Hello Python"
-print(s[3:7])
+print("apple" , "grape")
+print("apple" * 3)
